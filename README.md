@@ -1,3 +1,4 @@
+#dnnykrane
 # 💫 About Me:
 Most languages used are Python, C++, Java.<br>My stack is PHP, Native, Laravel. <br>Mobile apps, web platforms, or creative dev projects, especially anything with real-world impact, TensorFlow Lite integration and advanced Flutter state management. Flutter/Dart, embedded systems, and distributed systems architecture. Flutter, Laravel, Firebase, Arduino, or building apps from scratch in Ghana's tech space. I'm building a Jarvis-like AI assistant and an anime streaming site at the same time just because I can
 
